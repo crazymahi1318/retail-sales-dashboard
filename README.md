@@ -41,9 +41,5 @@ Goal: Build an **interactive Power BI dashboard** powered by **SQL queries**.
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](powerbi/dashboard_screenshot.png)
-
----
-
-## 📂 Repository Structure
-
+power-bi/1.png 
+power-bi/2.png
